@@ -57,14 +57,6 @@ Welcome to Ms Manager, your go-to Telegram bot for setting reminders, managing s
 
 Contributions are welcome! Whether you're fixing bugs, improving functionality, or adding new features, feel free to submit a pull request.
 
-## Issues and Bug Reports 🐛
-
-Found a bug or glitch? Report it in the "Issues" section, and our team will investigate and address it.
-
-## Stay Connected 🌐
-
-Follow us on [Twitter](https://twitter.com/OutOfThisWorldCode) for the latest updates, tips, and more! 🌌🚀
-
 ## Author 🧑‍💻
 
 Ms Manager is created with love by Dhruvik Malaviya.
